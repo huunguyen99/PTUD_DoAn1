@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.625, 9.375" name="QLThueTroSVDataContext">
+  <DataContextMoniker Name="/QLThueTroSVDataContext" />
+  <nestedChildShapes>
+    <classShape Id="dbd568a5-442b-4799-a836-dc74776e5038" absoluteBounds="9, 6.75, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/QLThueTroSVDataContext/tblCT_HoaDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2d6c3b83-30df-4817-8d21-5f7ec5a4ce2b" absoluteBounds="9.015, 7.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fd3973b8-422d-43df-af78-3098efe71f54" absoluteBounds="0.75, 2.125, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/QLThueTroSVDataContext/tblTruong" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fcbe74ee-6b42-4354-9a58-a91cfb82026b" absoluteBounds="0.765, 2.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="25eeb09e-f5a7-49e8-8749-b3996861ad3c" absoluteBounds="6.25, 6.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/QLThueTroSVDataContext/tblHoaDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c5d8d28e-ea8e-4f86-a3c4-64cb453e1ab5" absoluteBounds="6.265, 7.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9ce98af2-54c3-42ac-877c-fd42d5914428" absoluteBounds="3.5, 5.5, 2, 2.7324039713541657">
+      <DataClassMoniker Name="/QLThueTroSVDataContext/tblNhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3b905f58-04ed-42e3-b275-775e9d14c0f5" absoluteBounds="3.515, 5.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a11e9391-a320-4bb0-8cf2-e7bda65f5d59" absoluteBounds="9.25, 3.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/QLThueTroSVDataContext/tblPhieuThue" />
+      <nestedChildShapes>
+        <elementListCompartment Id="547dbfec-fa96-42e5-8df7-5f6f0b16331d" absoluteBounds="9.265, 4.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="65caaf3f-abad-48b1-aa88-29a02f9d5ea1" absoluteBounds="6.5, 1.875, 2, 1.9631982421875003">
+      <DataClassMoniker Name="/QLThueTroSVDataContext/tblPhongTro" />
+      <nestedChildShapes>
+        <elementListCompartment Id="36acad90-9047-44d4-9d55-161f10169736" absoluteBounds="6.515, 2.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="18c025b8-a367-469a-8c28-6ebac300f2df" absoluteBounds="0.75, 6.25, 2, 1.1939925130208327">
+      <DataClassMoniker Name="/QLThueTroSVDataContext/tblQueQuan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8072e213-6f2a-4ad9-b9a0-b24e0692baac" absoluteBounds="0.765, 6.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="859635e4-6295-4cef-a898-0ab0f39a266d" absoluteBounds="3.5, 1.5, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/QLThueTroSVDataContext/tblSinhVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4dfeeea1-d568-4a3f-9eb1-95c98ca5d4fd" absoluteBounds="3.515, 1.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cf415754-90ec-46c9-a7da-77c64c1e68bd" absoluteBounds="6.25, 4.625, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/QLThueTroSVDataContext/tblTaiKhoan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e2aa2f85-38f6-40ae-b0a6-d21f7e19f334" absoluteBounds="6.265, 5.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.25 : 7.82774983723958); (9 : 7.82774983723958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLThueTroSVDataContext/tblHoaDon/tblHoaDon_tblCT_HoaDon" />
+      <nodes>
+        <classShapeMoniker Id="25eeb09e-f5a7-49e8-8749-b3996861ad3c" />
+        <classShapeMoniker Id="dbd568a5-442b-4799-a836-dc74776e5038" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 7.49120198567708); (6.25 : 7.49120198567708)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLThueTroSVDataContext/tblNhanVien/tblNhanVien_tblHoaDon" />
+      <nodes>
+        <classShapeMoniker Id="9ce98af2-54c3-42ac-877c-fd42d5914428" />
+        <classShapeMoniker Id="25eeb09e-f5a7-49e8-8749-b3996861ad3c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.125 : 5.90549967447917); (10.125 : 6.75)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLThueTroSVDataContext/tblPhieuThue/tblPhieuThue_tblCT_HoaDon" />
+      <nodes>
+        <classShapeMoniker Id="a11e9391-a320-4bb0-8cf2-e7bda65f5d59" />
+        <classShapeMoniker Id="dbd568a5-442b-4799-a836-dc74776e5038" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 6.38064697265625); (11.15625 : 6.38064697265625); (11.15625 : 5.90549967447917)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLThueTroSVDataContext/tblNhanVien/tblNhanVien_tblPhieuThue" />
+      <nodes>
+        <classShapeMoniker Id="9ce98af2-54c3-42ac-877c-fd42d5914428" />
+        <classShapeMoniker Id="a11e9391-a320-4bb0-8cf2-e7bda65f5d59" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 2.8124995); (10.25 : 2.8124995); (10.25 : 3.75)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLThueTroSVDataContext/tblPhongTro/tblPhongTro_tblPhieuThue" />
+      <nodes>
+        <classShapeMoniker Id="65caaf3f-abad-48b1-aa88-29a02f9d5ea1" />
+        <classShapeMoniker Id="a11e9391-a320-4bb0-8cf2-e7bda65f5d59" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.84699625651042); (3.5 : 6.84699625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLThueTroSVDataContext/tblQueQuan/tblQueQuan_tblNhanVien" />
+      <nodes>
+        <classShapeMoniker Id="18c025b8-a367-469a-8c28-6ebac300f2df" />
+        <classShapeMoniker Id="9ce98af2-54c3-42ac-877c-fd42d5914428" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.06655110677083); (9.25 : 4.06655110677083)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLThueTroSVDataContext/tblSinhVien/tblSinhVien_tblPhieuThue" />
+      <nodes>
+        <classShapeMoniker Id="859635e4-6295-4cef-a898-0ab0f39a266d" />
+        <classShapeMoniker Id="a11e9391-a320-4bb0-8cf2-e7bda65f5d59" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.81814697265625); (3.5 : 2.81814697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLThueTroSVDataContext/tblTruong/tblTruong_tblSinhVien" />
+      <nodes>
+        <classShapeMoniker Id="fd3973b8-422d-43df-af78-3098efe71f54" />
+        <classShapeMoniker Id="859635e4-6295-4cef-a898-0ab0f39a266d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.25091745577925); (3.125 : 5.87591745577925); (3.125 : 3.55652747200521); (3.5 : 3.55652747200521)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLThueTroSVDataContext/tblQueQuan/tblQueQuan_tblSinhVien" />
+      <nodes>
+        <classShapeMoniker Id="18c025b8-a367-469a-8c28-6ebac300f2df" />
+        <classShapeMoniker Id="859635e4-6295-4cef-a898-0ab0f39a266d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.75564697265625); (6.25 : 5.75564697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLThueTroSVDataContext/tblNhanVien/tblNhanVien_tblTaiKhoan" />
+      <nodes>
+        <classShapeMoniker Id="9ce98af2-54c3-42ac-877c-fd42d5914428" />
+        <classShapeMoniker Id="cf415754-90ec-46c9-a7da-77c64c1e68bd" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

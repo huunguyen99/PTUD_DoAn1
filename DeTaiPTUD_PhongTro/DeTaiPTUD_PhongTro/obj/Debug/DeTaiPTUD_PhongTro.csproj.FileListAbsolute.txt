@@ -1,0 +1,310 @@
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csprojAssemblyReference.cache
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.Form1.resources
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.Properties.Resources.resources
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.GenerateResource.cache
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CoreCompileInputs.cache
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe.config
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.pdb
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\ComponentFactory.Krypton.Design.dll
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\ComponentFactory.Krypton.Docking.dll
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\ComponentFactory.Krypton.Design.pdb
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CopyComplete
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.exe
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.pdb
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DockingCustomized.exe
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DockingCustomized.pdb
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DockingCustomized.exe.config
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.FormMenuRibbon.resources
+E:\PTUD_2019_2020\My_Project\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.FrmDanhSachPhong.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKiThueMoi.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyTaiKhoan.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyThueOGhep.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangNhap.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDoiMatKhau.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmInHoaDon.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmMenu.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQLDanhSachPhong.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDienThongTinSinhVienThueTro.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQLThongTinSV.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSHoaDon.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmXemLichSuSinhVienThuePhong.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.Properties.Resources.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.GenerateResource.cache
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CoreCompileInputs.cache
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe.config
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.pdb
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CopyComplete
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.exe
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.pdb
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csprojAssemblyReference.cache
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemSV.resources
+E:\Phat Trien Ung Dung\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTImKiemNV.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe.config
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.pdb
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csprojAssemblyReference.cache
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKiThueMoi.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyTaiKhoan.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyThueOGhep.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangNhap.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDoiMatKhau.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmInHoaDon.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmMenu.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDienThongTinSinhVienThueTro.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSHoaDon.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTImKiemNV.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemSV.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmXemLichSuSinhVienThuePhong.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.Properties.Resources.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.GenerateResource.cache
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CoreCompileInputs.cache
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CopyComplete
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.exe
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.pdb
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyNhanVien.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDanhSachPhong.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyThongTinSV.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTraPhong.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSTruong.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemPhong.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSSVDangThue.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSSVKhongConThue.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongNam.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongNu.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongTrong.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemHoaDon.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyChoSVThueLai.resources
+E:\Phat Trien Ung Dung\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSPhieuThue.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe.config
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.pdb
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.ResolveComReference.cache
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKiThueMoi.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyChoSVThueLai.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyTaiKhoan.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyThueOGhep.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangNhap.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDoiMatKhau.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmInHoaDon.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmMenu.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDanhSachPhong.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDienThongTinSinhVienThueTro.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDoanhThuNam.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDoanhThuThang.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSPhieuThue.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSTruong.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyThongTinSV.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSHoaDon.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyNhanVien.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSSVDangThue.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSSVKhongConThue.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongNam.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongNu.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongTrong.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemHoaDon.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemNV.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemPhong.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemSV.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTraPhong.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmXemLichSuSinhVienThuePhong.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.Properties.Resources.resources
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.GenerateResource.cache
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CoreCompileInputs.cache
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CopyComplete
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.exe
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.pdb
+E:\PTUD_2019_2020\PTUD28102019\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csprojAssemblyReference.cache
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe.config
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.pdb
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.ResolveComReference.cache
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKiThueMoi.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyChoSVThueLai.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyTaiKhoan.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyThueOGhep.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangNhap.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDoiMatKhau.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmMenu.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDanhSachPhong.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDienThongTinSinhVienThueTro.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDoanhThuNam.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDoanhThuThang.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSPhieuThue.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSTruong.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyThongTinSV.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSHoaDon.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyNhanVien.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSSVDangThue.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSSVKhongConThue.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongNam.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongNu.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongTrong.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemHoaDon.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemNV.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemPhong.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemSV.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTraPhong.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmXemLichSuSinhVienThuePhong.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.Properties.Resources.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.GenerateResource.cache
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CoreCompileInputs.cache
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CopyComplete
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.exe
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.pdb
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmLapHoaDon.resources
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csprojAssemblyReference.cache
+E:\Phat Trien Ung Dung\DoAnPTUD_HoanChinh\Do An Quan Ly Phong Tro Code\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDienThongTinHoaDon.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe.config
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.pdb
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.ResolveComReference.cache
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKiThueMoi.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyChoSVThueLai.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyTaiKhoan.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyThueOGhep.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangNhap.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDienThongTinHoaDon.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDoiMatKhau.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmLapHoaDon.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmMenu.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDanhSachPhong.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDienThongTinSinhVienThueTro.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDoanhThuNam.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDoanhThuThang.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSPhieuThue.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSTruong.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyThongTinSV.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSHoaDon.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyNhanVien.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSSVDangThue.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSSVKhongConThue.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongNam.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongNu.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongTrong.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemHoaDon.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemNV.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemPhong.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemSV.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTraPhong.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmXemLichSuSinhVienThuePhong.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.Properties.Resources.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.GenerateResource.cache
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CopyComplete
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.exe
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.pdb
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmGioiThieu.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe.config
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.pdb
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.ResolveComReference.cache
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKiThueMoi.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyChoSVThueLai.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyTaiKhoan.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyThueOGhep.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangNhap.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDienThongTinHoaDon.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDoiMatKhau.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmGioiThieu.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmLapHoaDon.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmMenu.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDanhSachPhong.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDienThongTinSinhVienThueTro.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDoanhThuNam.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDoanhThuThang.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSPhieuThue.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSTruong.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyThongTinSV.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSHoaDon.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyNhanVien.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSSVDangThue.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSSVKhongConThue.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongNam.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongNu.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongTrong.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeThueChiTiet.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeTraPhongTheoNam.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeTraPhongTheoThang.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemHoaDon.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemNV.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemPhong.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemSV.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTraPhong.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmXemLichSuSinhVienThuePhong.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.Properties.Resources.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.ThongKeThuePhongTheoNam.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.ThongKeThuePhongTheoThang.resources
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.GenerateResource.cache
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CoreCompileInputs.cache
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CopyComplete
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.exe
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.pdb
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\itextsharp.dll
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\itextsharp.xml
+E:\PTUD_2019_2020\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csprojAssemblyReference.cache
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe.config
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.exe
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\DeTaiPTUD_PhongTro.pdb
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\itextsharp.dll
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\itextsharp.xml
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csprojAssemblyReference.cache
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.ResolveComReference.cache
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKiThueMoi.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyChoSVThueLai.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyTaiKhoan.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangKyThueOGhep.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDangNhap.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDienThongTinHoaDon.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDoiMatKhau.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmGioiThieu.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmLapHoaDon.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmMenu.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDanhSachPhong.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmDienThongTinSinhVienThueTro.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDoanhThuNam.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDoanhThuThang.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSPhieuThue.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSTruong.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyThongTinSV.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyDSHoaDon.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmQuanLyNhanVien.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSSVDangThue.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeDSSVKhongConThue.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongNam.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongNu.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKePhongTrong.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeThueChiTiet.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeTraPhongTheoNam.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeTraPhongTheoThang.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemHoaDon.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemNV.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemPhong.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTimKiemSV.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmTraPhong.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmXemLichSuSinhVienThuePhong.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.Properties.Resources.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.ThongKeThuePhongTheoNam.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.ThongKeThuePhongTheoThang.resources
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.GenerateResource.cache
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CopyComplete
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.exe
+D:\VideoHoc_LapTrinhDiDong\Do An Full_final\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.pdb
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\itextsharp.dll
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\bin\Debug\itextsharp.xml
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeThueChiTiet.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeTraPhongTheoNam.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.frmThongKeTraPhongTheoThang.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.ThongKeThuePhongTheoNam.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.ThongKeThuePhongTheoThang.resources
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csproj.CoreCompileInputs.cache
+E:\Phat Trien Ung Dung\Do An Full\Do An Quan Ly Phong Tro Nhom 04\DeTaiPTUD_PhongTro\DeTaiPTUD_PhongTro\obj\Debug\DeTaiPTUD_PhongTro.csprojAssemblyReference.cache
